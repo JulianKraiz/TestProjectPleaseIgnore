@@ -12,5 +12,11 @@
 				"Engine"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "GitSourceControl",
+			"Enabled": false
+		}
 	]
 }
